@@ -13,5 +13,4 @@ Installation:
 
  * After cloning this repo clone the speedtest-cli repo in this repos folder.
  * Change the config file to fit your needs
-
-| Test 
+ 
