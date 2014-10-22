@@ -12,4 +12,6 @@ The testing module will test the speed of the internet connection peridocally an
 Installation:
 
  * After cloning this repo clone the speedtest-cli repo in this repos folder.
- * Change the config file to fit your needs 
+ * Change the config file to fit your needs
+
+| Test 
