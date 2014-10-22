@@ -3,7 +3,7 @@ RPi-Speedtest-Suite
 
 Some modules for automated speedtesting your internet connection with a Raspberry Pi. In general none of the modules will be restricted to the RPi.
 
-For the speedtest speedtest-cli (github.com/sivel/speedtest-cli) is used.
+For the speedtest speedtest-cli (https://github.com/sivel/speedtest-cli) is used.
 
 The analysis of the taken data will be realized with ROOT (http://root.cern.ch/drupal/).
 
@@ -11,4 +11,5 @@ The testing module will test the speed of the internet connection peridocally an
 
 Installation:
 
- * After cloning this repo clone the speedtest-cli repo in this repos folder. 
+ * After cloning this repo clone the speedtest-cli repo in this repos folder.
+ * Change the config file to fit your needs 
