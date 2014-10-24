@@ -12,5 +12,7 @@ The testing module will test the speed of the internet connection peridocally an
 Installation:
 
  * After cloning this repo clone the speedtest-cli repo in this repos folder.
+ * Create the empty file __init__.py inside the speedtest-cli directory and rename the directory to speedtestcli
+   (Python does not like the '-', when importing the the skript als a module)
  * Change the config file to fit your needs
  
